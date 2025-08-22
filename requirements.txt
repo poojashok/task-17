@@ -1,0 +1,5 @@
+playwright~=1.53.0
+utils~=1.0.2
+pytest~=8.4.1
+pytest-html
+pytest-playwright
